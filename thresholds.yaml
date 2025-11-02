@@ -1,0 +1,6 @@
+# thresholds.yaml
+rules:
+  fever_to_tachy_hours_max: 6        # Fever → Tachy within 6 hours
+  tachy_to_lowspo2_hours_max: 12     # Tachy → Low SpO2 within 12 hours
+  tachy_hr_min: 100                  # tachy threshold (bpm)
+  low_spo2_max: 92                   # low SpO2 threshold (%)
