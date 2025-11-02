@@ -1,0 +1,24 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    { "resource": {
+      "resourceType": "Patient", "id": "p001",
+      "name":[{"family":"Smith","given":["John"]}]
+    }},
+    { "resource": {
+      "resourceType":"Observation","id":"obs-temp-1","status":"final",
+      "subject":{"reference":"Patient/p001"},
+      "effectiveDateTime":"2025-01-01T08:00:00Z",
+      "code":{"coding":[{"system":"http://loinc.org","code":"8310-5","display":"Body temperature"}]},
+      "valueQuantity":{"value":38.9,"unit":"Celsius"}
+    }},
+    { "resource": {
+      "resourceType":"Observation","id":"obs-hr-1","status":"final",
+      "subject":{"reference":"Patient/p001"},
+      "effectiveDateTime":"2025-01-01T12:00:00Z",
+      "code":{"coding":[{"system":"http://loinc.org","code":"8867-4","display":"Heart rate"}]},
+      "valueQuantity":{"value":112,"unit":"beats/minute"}
+    }}
+  ]
+}
